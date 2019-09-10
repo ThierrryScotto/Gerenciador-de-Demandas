@@ -1,0 +1,6 @@
+C:\Users\thierry\source\repos\LibraryGerenciadorDeChamados\LibraryGerenciadorDeChamados\bin\Debug\LibraryGerenciadorDeChamados.dll
+C:\Users\thierry\source\repos\LibraryGerenciadorDeChamados\LibraryGerenciadorDeChamados\bin\Debug\LibraryGerenciadorDeChamados.pdb
+C:\Users\thierry\source\repos\LibraryGerenciadorDeChamados\LibraryGerenciadorDeChamados\obj\Debug\LibraryGerenciadorDeChamados.csprojAssemblyReference.cache
+C:\Users\thierry\source\repos\LibraryGerenciadorDeChamados\LibraryGerenciadorDeChamados\obj\Debug\LibraryGerenciadorDeChamados.csproj.CoreCompileInputs.cache
+C:\Users\thierry\source\repos\LibraryGerenciadorDeChamados\LibraryGerenciadorDeChamados\obj\Debug\LibraryGerenciadorDeChamados.dll
+C:\Users\thierry\source\repos\LibraryGerenciadorDeChamados\LibraryGerenciadorDeChamados\obj\Debug\LibraryGerenciadorDeChamados.pdb
